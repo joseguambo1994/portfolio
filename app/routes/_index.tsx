@@ -244,6 +244,28 @@ export default function Index() {
 </ParallaxLayer>
       </Parallax>
 
+
+
+        </ParallaxLayer>
+        <ParallaxLayer offset={2.8} speed={-0.2} >
+          <div>
+
+          <h4 className="text-base font-extrabold">
+              <span className="block uppercase text-red-500 drop-shadow-md">
+                hollaa
+                <a
+ target="_blank"
+ href="https://app.gappnadero.com"
+ rel="noreferrer"
+ >
+  Gappnadero - Cattle register PWA
+ </a>
+              </span>
+            </h4>
+          
+          </div>
+ 
+
         </ParallaxLayer>
 
 
